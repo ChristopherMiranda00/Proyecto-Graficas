@@ -1,6 +1,7 @@
 # Proyecto-Graficas TC3022
 ## Integrantes
 Christopher Luis Miranda Vanegas A01022676
+
 Rodrigo Quiroz Reyes A01026546
 
 ## Propuestas de Proyectos 
