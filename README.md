@@ -15,7 +15,13 @@ Rodrigo Quiroz Reyes A01026546
   - [Caja de musica](https://m.media-amazon.com/images/I/61f5iMhhWoL._AC_SX466_.jpg)
 
 3. [Partes de un Objeto (experiencia audiovisual o tour)](https://farfromhere.emmitfenn.com)
-4. [Ciudad en 3D](https://codepen.io/vcomics/pen/aGmoae)
+
+![alt text](https://i.pinimg.com/736x/38/31/f6/3831f6738e0dbc04d341ec7ef94790a7.jpg)
+
+
+5. [Ciudad en 3D](https://codepen.io/vcomics/pen/aGmoae)
+
+![alt text](https://thumbs.dreamstime.com/b/ciudad-3d-13420756.jpg)
 
 ## Requerimientos funcionales a resolver:
 
