@@ -9,6 +9,8 @@ Rodrigo Quiroz Reyes A01026546
 
 ![alt text](https://i.pinimg.com/736x/b7/28/1f/b7281f9481e5bcf81d1b558bc6263652.jpg "Guitar")
 
+![alt text](https://images-ext-1.discordapp.net/external/Y6Xw2CEsNbUKgJM9zD-SubOhs5OVVt_jXH1F_P7Em5Q/https/damassets.autodesk.net/content/dam/autodesk/www/solutions/3d-cad-software/fy17-autocad-guitar-hero-image-1006x484.jpg?width=1144&height=550)
+
   - [Cuerdas](https://www.musicca.com/es/guitarra)
   - [Caja de musica](https://m.media-amazon.com/images/I/61f5iMhhWoL._AC_SX466_.jpg)
 
