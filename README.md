@@ -31,6 +31,10 @@ Rodrigo Quiroz Reyes A01026546
 
 ### Requerimientos:
 A. Muestra la parte de atras, en donde habrá un interruptor o botón para brindar mayor interacción con el usuario. Este al ser activado, sonará una pequeña parte de alguna canción famosa.  
-B. Pequeño engrane o tuerca, la cual será utilizada para darle "cuerda" a la guitarra para que emita el sonido
 
+B. Pequeño engrane o tuerca, la cual será utilizada para darle "cuerda" a la guitarra para que emita el sonido.
+
+C. Distorsión de Sonido TBD, esta función agregaría una distorsión al sonido de las cuerdas de la guitarra. 
+
+D. Cuerdas, estás simularían una guitarra real, ya que el usuario puede interactuar con ellas y estás emitirían el sonido a corde a la cuerda seleccionada. 
 
