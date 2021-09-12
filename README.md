@@ -25,6 +25,9 @@ Rodrigo Quiroz Reyes A01026546
 
 ## Requerimientos funcionales a resolver:
 
+![alt text](https://cdn.discordapp.com/attachments/750491883280793712/886414884152164393/IMG_20210911_195600.jpg)
+
+
 
 
 
