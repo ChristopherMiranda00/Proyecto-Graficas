@@ -25,7 +25,7 @@ Rodrigo Quiroz Reyes A01026546
 
 ## Requerimientos funcionales a resolver:
 
-![alt text](media/guitarra.jp)
+![alt text](/media/guitarra.jp)
 
 
 
