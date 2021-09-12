@@ -24,12 +24,13 @@ Rodrigo Quiroz Reyes A01026546
 ![alt text](https://thumbs.dreamstime.com/b/ciudad-3d-13420756.jpg)
 
 ## Requerimientos funcionales a resolver:
-
+### Bocetos: 
 ![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/5ccbc3eaa480e42ebef9c88c2d08c1354c02d479/media/guitarra.jpg)
-
 
 ![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/0db37d5d836c738910f4edef27422f67fc402973/media/guitarra2.jpg)
 
-
+### Requerimientos:
+A. Muestra la parte de atras, en donde habrá un interruptor o botón para brindar mayor interacción con el usuario. Este al ser activado, sonará una pequeña parte de alguna canción famosa.  
+B. Pequeño engrane o tuerca, la cual será utilizada para darle "cuerda" a la guitarra para que emita el sonido
 
 
