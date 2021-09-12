@@ -25,7 +25,7 @@ Rodrigo Quiroz Reyes A01026546
 
 ## Requerimientos funcionales a resolver:
 
-![alt text](/media/guitarra.jpg)
+![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/5ccbc3eaa480e42ebef9c88c2d08c1354c02d479/media/guitarra.jpg)
 
 
 
