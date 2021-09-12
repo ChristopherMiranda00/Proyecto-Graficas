@@ -38,3 +38,6 @@ C. Distorsión de Sonido TBD, esta función agregaría una distorsión al sonido
 
 D. Cuerdas, estás simularían una guitarra real, ya que el usuario puede interactuar con ellas y estás emitirían el sonido a corde a la cuerda seleccionada. 
 
+E. Interruptor o botón para brindar mayor interacción con el usuario atrás de la guitarra "escondido" . Este al ser activado, sonará una pequeña parte de alguna canción famosa.  
+
+F. Cámara, se puede mover la perspectiva de la guitarra. 
