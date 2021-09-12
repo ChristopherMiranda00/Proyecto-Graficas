@@ -28,7 +28,7 @@ Rodrigo Quiroz Reyes A01026546
 ![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/5ccbc3eaa480e42ebef9c88c2d08c1354c02d479/media/guitarra.jpg)
 
 
-
+![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/0db37d5d836c738910f4edef27422f67fc402973/media/guitarra2.jpg)
 
 
 
