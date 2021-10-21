@@ -1,0 +1,18 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+canvas {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+#webglcanvas {
+  width: 400px;
+  height: 300px;
+}
