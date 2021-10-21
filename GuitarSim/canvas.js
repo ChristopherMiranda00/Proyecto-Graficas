@@ -7,7 +7,7 @@ import { FBXLoader } from '../libs/three.js/r131/loaders/FBXLoader.js';
 
 let renderer=null,scene=null,camera=null,controls=null
 let hombro =null
-const guitarra=  {obj:'./models/guitar/guitar.obj', mtl:'./models/guitar/guitar.mtl'};
+const guitarra=  {obj:'./models/test/guitar.obj', mtl:'./models/test/guitar.mtl'};
 
 function main() 
 {
@@ -89,7 +89,7 @@ function createScene(canvas)
     scene.background = new THREE.Color( 0.2, 0.2, 0.2 );
     scene.add(new THREE.AxesHelper());
 
-    camera = new THREE.PerspectiveCamera( 50, window.innerWidth / window.innerHeight, 1, 1000 );
+    camera = new THREE.PerspectiveCamera( 10, window.innerWidth / window.innerHeight, 1, 1000 );
     camera.position.z = 10;
 
 	controls = new OrbitControls( camera, renderer.domElement );
@@ -106,11 +106,11 @@ function createScene(canvas)
     const ambientLight = new THREE.AmbientLight(0xffccaa, 0);
     scene.add(ambientLight);
 
-	//loadObjMtl(guitarra);
+	loadObjMtl(guitarra);
     
     
     const fbxLoader = new FBXLoader()
-    fbxLoader.load(
+    /* fbxLoader.load(
         'models/guitar2/guitar2.fbx',
         (object) => {
             // object.traverse(function (child) {
@@ -134,7 +134,7 @@ function createScene(canvas)
         (error) => {
             console.log(error)
         }
-    )
+    )*/
 
 
 }
