@@ -50,5 +50,5 @@ F. Cámara, se puede mover la perspectiva de la guitarra.
 
 En la imagen a continuación se muestran los avances anteriormente mencionados y las cosas faltantes para concluir nuestro proyecto: 
 
-![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/5ccbc3eaa480e42ebef9c88c2d08c1354c02d479/media/guitarra.jpg)
+![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/main/media/AvancesGuitarra.png)
 
