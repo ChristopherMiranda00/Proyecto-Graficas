@@ -254,40 +254,40 @@ function onDocumentPointerDown(event)
     mouse.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
 
     raycaster.setFromCamera( mouse, camera );
-    console.log(root.children)
-    let intersects = raycaster.intersectObjects( root.children );
+
+    let intersects = raycaster.intersectObjects( objects[0].children );
 
     if ( intersects.length > 0 ) 
     {
         clicked = intersects[ 0 ].object;
-        clicked.material.emissive.set( 0x00ff00 );
+        //clicked.material.emissive.set( 0x00ff00 );
         console.log(clicked)
-        if(clicked.name=='E4') 
+        if(clicked.name=='Cuerda1') 
         {
             if(E4.isPlaying){E4.stop(); }
             E4.play();
         }
-        if(clicked.name=='E5') 
+        if(clicked.name=='Cuerda6') 
         {
             if(E5.isPlaying){E5.stop(); }
             E5.play();
         }
-        if(clicked.name=='B5') 
+        if(clicked.name=='Cuerda5') 
         {
             if(B5.isPlaying){B5.stop();}
             B5.play();
         }
-        if(clicked.name=='G5') 
+        if(clicked.name=='Cuerda4') 
         {
             if(G5.isPlaying){G5.stop();}
             G5.play();
         }
-        if(clicked.name=='D5') 
+        if(clicked.name=='Cuerda3') 
         {
             if(D5.isPlaying){D5.stop();}
             D5.play();
         }
-        if(clicked.name=='A5') 
+        if(clicked.name=='Cuerda2') 
         {
             if(A5.isPlaying){A5.stop();}
             A5.play();
