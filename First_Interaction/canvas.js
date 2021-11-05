@@ -8,7 +8,7 @@ let raycaster = null, mouse = new THREE.Vector2(), intersected, clicked;
 
 let directionalLight = null, spotLight = null, ambientLight = null;
 
-let listener =null,audioLoader;
+let listener =null,audioLoader=null;
 
 let currentTime = Date.now();
 
@@ -173,12 +173,13 @@ function createScene(canvas)
     camera = new THREE.PerspectiveCamera( 45, canvas.width / canvas.height, 1, 4000 );
     camera.position.set(0, 15, 125);
     listener = new THREE.AudioListener();
+    
     camera.add( listener );
 
     audioLoader = new THREE.AudioLoader();
 
     loadAudio()
-
+    console.log(listener)
     orbitControls = new OrbitControls(camera, renderer.domElement);
     orbitControls.target.set(0,0,0);
         
@@ -348,7 +349,7 @@ function main()
 
     createScene(canvas);
 
-    addBoxes();
+    //addBoxes();
 
     update();
 }
