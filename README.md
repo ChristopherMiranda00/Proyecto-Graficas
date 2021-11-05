@@ -41,3 +41,14 @@ D. Cuerdas, estás simularían una guitarra real, ya que el usuario puede intera
 E. Interruptor o botón para brindar mayor interacción con el usuario atrás de la guitarra "escondido" . Este al ser activado, sonará una pequeña parte de alguna canción famosa.  
 
 F. Cámara, se puede mover la perspectiva de la guitarra. 
+
+### Avances Primer Entrega:
+- En este avance se cargaron los modelos a utlizar para la funcionalidad y decoración. 
+- Se cargaron los sonidos de las cuerdas (carpeta de sounds). 
+- Se cargo el modelo base de la guitarra y se programó la interacción con las cuerdas. Al tocarlas reproducen los sonidos cargados
+
+
+En la imagen a continuación se muestran los avances anteriormente mencionados y las cosas faltantes para concluir nuestro proyecto: 
+
+![alt text](https://github.com/ChristopherMiranda00/Proyecto-Graficas/blob/main/media/AvancesGuitarra.png)
+
